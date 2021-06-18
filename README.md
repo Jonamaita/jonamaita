@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Jonamaita/jonamaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jonathan
 
-Here are some ideas to get you started:
+I'm **Electronic Engineer** :electron:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like the software development and information technology 🤖.
+
+I am always learning 🚀.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonamaita&theme=vue-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonamaita&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <b>Don't repeat yourself.</b>
+</div>
